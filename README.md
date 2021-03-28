@@ -29,9 +29,9 @@
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sandeeptank52&show_icons=true&locale=en&layout=compact" alt="sandeeptank52" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sandeeptank52&show_icons=true&locale=en" alt="sandeeptank52" /></p>
+<p>&nbsp;<br><br><br><br><br><br><img align="center" src="https://github-readme-stats.vercel.app/api?username=sandeeptank52&show_icons=true&locale=en" alt="sandeeptank52" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sandeeptank52&" alt="sandeeptank52" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sandeeptank52&" alt="sandeeptank52" /></p>
 
 
 
