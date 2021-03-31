@@ -3,7 +3,7 @@
 
 
 
-- 🔭 I’m currently working on **An Social App**
+- 🔭 I’m currently working on **A Social App**
 
 - 🌱 I’m currently learning **Flutter, Python**
 
