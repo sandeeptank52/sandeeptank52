@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on **A Social App**
 
-- 🌱 I’m currently learning **Flutter, Python**
+- 🌱 I’m currently learning  **Python**
 
-- 💬 Ask me about **Android Development**
+- 💬 Ask me about **Mobile Development**
 
 - 📫 How to reach me **sandeeptak52@gmail.com**
 
